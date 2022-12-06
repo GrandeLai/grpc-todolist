@@ -1,0 +1,8 @@
+server:
+  domain: api-gateway
+  port: :4000
+  jwtSecret: jdaw
+  version: 1.0
+
+
+
